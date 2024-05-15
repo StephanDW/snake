@@ -1,0 +1,20 @@
+.board{
+  background-color: white;
+}
+
+.main_container{
+  display: flex;
+  flex-direction: column;
+}
+
+.snake{
+  background-color: green;
+  width: 32px;
+  height: 32px;
+}
+
+.fruit{
+  background-color: red;
+  width: 32px;
+  height: 32px;
+}
